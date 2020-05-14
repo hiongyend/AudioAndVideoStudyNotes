@@ -6,7 +6,7 @@
 
 
 ## 基础理论部分
-[音视频学习基础笔记](音视频基础笔记.md)
+[音视频学习基础笔记](音视频基础笔记.md)   
 [Android使用FFmpeg入门篇-编译动态库](https://blog.csdn.net/hqiong208/article/details/106057826)
 
 
