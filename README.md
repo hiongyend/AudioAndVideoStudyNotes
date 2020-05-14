@@ -6,7 +6,8 @@
 
 
 ## 基础理论部分
-[音视频学习基础笔记](https://github.com/hiongyend/AudioAndVideoStudyNotes/blob/master/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0.md)
+[音视频学习基础笔记](音视频基础笔记.md)
+[Android使用FFmpeg入门篇-编译动态库](https://blog.csdn.net/hqiong208/article/details/106057826)
 
 
 
